@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tu6ILbOBSvK0an+oYLfoSQvW18A+Bu9VhOpvUqOBV/E8APERKh87BzyNmJkhO0nO0h6G3vqfKHMjv/b5UO9Hag==",
+  "success": true,
+  "projectFilePath": "/Users/montygouki/Projects/FactoryPatternPractice_Polymorphism/FactoryPatternPractice_Polymorphism/FactoryPatternPractice_Polymorphism.csproj",
+  "expectedPackageFiles": [
+    "/Users/montygouki/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
